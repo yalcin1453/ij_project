@@ -11,6 +11,7 @@ public class Excercises01 {
         list.put("b","yalcin");
         System.out.println(list);
         System.out.println("hi how are you from github");
+        System.out.println("hi from ij to github");
       
 
 
