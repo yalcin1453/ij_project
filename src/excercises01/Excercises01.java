@@ -13,6 +13,7 @@ public class Excercises01 {
         System.out.println("hi how are you from github");
         System.out.println("hi from ij to github");
         System.out.println("i create new branch as fatih");
+        System.out.println("new branch was created at github as a fatih");
       
 
 
