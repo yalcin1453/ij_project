@@ -10,6 +10,7 @@ public class Excercises01 {
         list.put("a","fatih");
         list.put("b","yalcin");
         System.out.println(list);
+        System.out.println("hi how are you from github");
       
 
 
